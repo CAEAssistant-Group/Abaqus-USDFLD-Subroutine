@@ -1,4 +1,7 @@
 # Abaqus-USDFLD-Subroutine
+
+✅ This is the complete source code for the project, ready to use.✨
+
 This project demonstrates how to use Abaqus USDFLD subroutine to reduce material stiffness when stress exceeds a defined threshold. A tutorial video is also provided, explaining the attached Abaqus USDFLD subroutine code, model setup, and result analysis. It is suitable for those want to write their Abaqus USDFLD subroutine.
 
 The Abaqus USDFLD subroutine is a user-defined field subroutine that allows you to assign custom field variables at material integration points during an analysis. These variables don’t directly define material behavior — instead, they serve as custom inputs that can influence other parts of your simulation.
